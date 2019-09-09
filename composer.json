@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jaeger/querylist": "^4.1",
+        "phpoffice/phpspreadsheet": "^1.9",
+        "guiguiboy/php-cli-progress-bar": "^0.0.4"
+    }
+}
